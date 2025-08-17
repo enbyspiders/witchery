@@ -2,7 +2,7 @@
 a small tool for connecting [bitsy](https://ledoux.itch.io/bitsy) rooms.  
 load in some game data, arrange your rooms and overworld witchery will do all the magic.
 
-try it out over here: [https://voec.github.io/witchery/](https://voec.github.io/witchery/)
+try it out over here: https://enbyspiders.github.io/witchery/
 
 ***i'm not actively working on this anymore, but with a few caveats witchery can already be used.***
 
